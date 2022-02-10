@@ -11,4 +11,4 @@ A sniper boss that uses the Mann vs Machine Sniper bot model and voice. It gets 
 This is just trolldier: the FF2 boss. He has no rage abilities except for weighdown. He does get a Battalion's Backup. I also gave him rage build on hit, so his BB can be deployed rapidly. He is more of an experiment to see how things can work if I have a boss with no rage and relied on trolldier skills alone.
 
 ## **Scout With Phlog**  
-*coming soon*
+This was something I had sitting on my pc, and never uploaded. It's a very simple boss in design, but I wonder how it will be utilized.
