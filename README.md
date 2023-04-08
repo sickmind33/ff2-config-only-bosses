@@ -1,10 +1,13 @@
 # ff2-config-only-bosses
 A collection of my config only bosses for the Freak Fortress 2 gamemode in Team Fortress 2
-
+  
 This small project is an attempt at creating bosses that only use in-game assets, rather than custom models. The idea is to create an experience that requires less custom content to be downloaded to the end user. While custom plugins may be used, the assets of the bosses are all made with base game content only.
   
   
 ## **Robot Sniper**  
+  
+  > note: this boss is going to be broken in Freak Fortress 2: Rewrite, due to the use of Dynamic Defaults. When FF2:R becomes more widely used, I will update this boss. 
+  
 A sniper boss that uses the Mann vs Machine Sniper bot model and voice. It gets a one hit kill sniper rifle as its rage. *Fun Fact*: This boss was obscenely overpowered on release because I gave him too many bullets. I also forgot some people are really **really** **REALLY** good at sniper. He got nerfed a bit and is now the most used of all my bosses.
   
 ## **Master of the Market Garden**  
